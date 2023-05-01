@@ -1,0 +1,3 @@
+[submodule "hardware/scottcjx-kicad-parts"]
+	path = hardware/scottcjx-kicad-parts
+	url = git@github.com:scott-cjx/scottcjx-kicad-parts.git

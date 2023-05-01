@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "scottcjx-keyboard_pcb_plate")(type "KiCad")(uri "${KICAD_MAIN}/explorekb-75/hardware/scottcjx-kicad-parts/scottcjx-keyboard_pcb_plate.pretty")(options "")(descr ""))
+  (lib (name "scottcjx-keyboard_components")(type "KiCad")(uri "${KICAD_MAIN}/explorekb-75/hardware/scottcjx-kicad-parts/scottcjx-keyboard_components/scottcjx-keyboard_components.pretty")(options "")(descr ""))
+  (lib (name "scottcjx-graphics")(type "KiCad")(uri "${KICAD_MAIN}/explorekb-75/hardware/scottcjx-kicad-parts/scottcjx-graphics.pretty")(options "")(descr ""))
+)
