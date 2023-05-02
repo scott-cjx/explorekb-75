@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "explorekb75.kicad_pro",
+    "filename": "explorekb-rev4.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -381,7 +381,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "../../render/explore75-3-v1-render/explorekb75-3-v2.step",
+      "step": "../../renders/explorekb-rev4/explorekb75-rev4-v1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
