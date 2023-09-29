@@ -2467,10 +2467,10 @@
       (reference "SW13") (unit 1) (value "SW_SPST") (footprint "scottcjx-keyboard_components:MX_HS_Optional")
     )
     (path "/165644e7-f6eb-433b-8300-50e1a65169b0/371d8881-e24a-4352-a84c-47d9a4eb20a4"
-      (reference "SW14") (unit 1) (value "RotaryEncoder_Switch") (footprint "scottcjx-keyboard_components:RotaryEncoder_EC11")
+      (reference "SW14") (unit 1) (value "RotaryEncoder_Switch") (footprint "scottcjx-keyboard_components:RotaryEncoder_EC11_MX_Opt")
     )
     (path "/165644e7-f6eb-433b-8300-50e1a65169b0/a460f9de-4f9a-4d9f-ae91-dd0244ebd302"
-      (reference "SW15") (unit 1) (value "RotaryEncoder_Switch") (footprint "scottcjx-keyboard_components:RotaryEncoder_EC11")
+      (reference "SW15") (unit 1) (value "RotaryEncoder_Switch") (footprint "scottcjx-keyboard_components:RotaryEncoder_EC11_MX_Opt")
     )
     (path "/165644e7-f6eb-433b-8300-50e1a65169b0/684bb0b3-f853-4572-814a-0ecdc9549305"
       (reference "SW16") (unit 1) (value "SW_SPST") (footprint "scottcjx-keyboard_components:MX_HS_Optional")
